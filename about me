@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>My Queen’s Student Page</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <h1>Welcome to My Page</h1> <!-- change this heading to your name -->
+    </header>
+
+    <main>
+      <!-- ====== ABOUT SECTION ====== -->
+      <h2>About Me</h2>
+      <p>I am a student at Queen’s School of Computing. I’m interested in stuff and things and whatnot.</p>
+
+      <!-- ====== PHOTO (upload me.jpg to repo root, then update the src below) ====== -->
+      <img src="me.jpg" alt="Your Name portrait" width="240" height="240" />
+
+      <!-- ====== COURSES ====== -->
+      <h2>Courses</h2>
+      <ul>
+        <li>Course One — i dont know what the description is.</li>
+        <li>Course Two — coming soon.</li>
+      </ul>
+
+      <!-- ====== CONTACT ====== -->
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:25yyk@queensu.ca">25yyk@queensu.ca</a></p>
+      <p>LinkedIn: <a href="#">add your link here</a></p>
+    </main>
+  </body>
+</html>
